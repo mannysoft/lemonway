@@ -1,4 +1,4 @@
 lemonway
 ========
 
-Lemon way wrapper PHP
+Lemon Way wrapper PHP.

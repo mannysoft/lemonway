@@ -1,0 +1,21 @@
+{
+    "name": "mannysoft/surveymonkey",
+    "version": "1.0.0",
+    "type": "library",
+    "description": "PHP class for Lemon Way API.",
+    "keywords": ["laravel", "php"],
+    "homepage": "https://github.com/oori/php-surveymonkey",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Manny Isles",
+            "homepage": "https://github.com/mannysoft"
+        }
+    ],
+    "require": {
+        "php": ">=5.1"
+    },
+    "autoload": {
+        "psr-0": { "SurveyMonkey": "libraries/" }
+    }
+}
