@@ -14,7 +14,7 @@
     ],
     "require": {
         "php": ">=5.1",
-        "camcima/camcima-soap-client": "dev-master"
+        "camcima/soap-client": "dev-master"
     },
     "autoload": {
         "psr-0": { "LemonWay": "libraries/" }
