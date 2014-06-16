@@ -1,6 +1,7 @@
 <?php
 /**
  * Class for Lemon Way
+ * Manny Isles
  * @package default
  */
 class LemonWay {
